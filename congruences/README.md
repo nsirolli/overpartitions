@@ -13,7 +13,7 @@
 
   $(nQ^2, \overline p(nQ^2) \pmod{l})$
 
-  $(n/Q^2, \overline p(n/Q^2) \mod{l})$
+  $(n/Q^2, \overline p(n/Q^2) \pmod{l})$
 
   $res$
 
